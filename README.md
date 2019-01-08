@@ -60,4 +60,16 @@ We have respectively:
 ![alt text](images/index21.png)
 ![alt text](images/index33.png)
 
+# Hazy to clear images:
+
+We have respectively:
+
+* RealA, fakeB, recA
+* RealB, fakeA, recB
+
+![alt text](images/haze.png)
+![alt text](images/haze2.png)
+![alt text](images/haze22.png)
+
+
 
