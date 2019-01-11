@@ -72,4 +72,11 @@ We have respectively:
 ![alt text](images/haze22.png)
 
 
+# Underwater to clear images:
+
+![alt text](images/under22.png)
+![alt text](images/under223.png)
+![alt text](images/under2222.png)
+![alt text](images/underwater.png)
+![alt text](images/underwater33.png)
 
