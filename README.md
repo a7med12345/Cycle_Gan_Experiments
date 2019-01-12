@@ -80,3 +80,12 @@ We have respectively:
 ![alt text](images/underwater.png)
 ![alt text](images/underwater33.png)
 
+# Face Sketch to images:
+
+![alt text](images/sketch11.png)
+![alt text](images/sketch24.png)
+![alt text](images/sketch33.png)
+![alt text](images/sketch45.png)
+![alt text](images/sketch46.png)
+![alt text](images/sketch345.png)
+
