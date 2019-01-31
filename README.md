@@ -89,3 +89,31 @@ We have respectively:
 ![alt text](images/sketch46.png)
 ![alt text](images/sketch345.png)
 
+
+# Other approach
+
+## Architecture
+![alt text](images/network_22.png)
+
+## Denoisng: Darmstadt Noise Dataset
+
+### With data L2 loss similar to discriminator loss in importance
+
+Real A, Fake B, Real B, fake A:
+
+![alt text](images/dnd.png)
+
+
+### With data L2 loss higher importance than discriminator loss
+![alt text](images/dnd2.png)
+
+
+## Dehazing
+
+### With data L2 loss similar to discriminator loss in importance
+
+Real A, Fake B, Real B, fake A:
+
+![alt text](images/dehaze.png)
+
+
