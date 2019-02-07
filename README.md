@@ -13,16 +13,16 @@
 ### Attention Layer
 
 We use the attention layer proposed in [Self-Attention Generative Adversarial Networks](https://arxiv.org/pdf/1805.08318.pdf);
-we add spectral normalization after each convolution layer.
+we add [spectral normalization](https://arxiv.org/pdf/1802.05957.pdf) after each convolution layer.
 The attention layer has the following network.
 ![alt text](images/self-attention-gan-network.png)
 
 ### Cycle Gan Architectrure and Loss fucntion
 
 Cycle Gan is used for domain transfer. We have two domains A and B (e.g: rainy images 
-, no rain images). As shown in figure below, we have two generators; one to tranform image in
+, no rain images). As shown in figure below, we have two generators; one to transform image in
 domain A to image in domain B. Furthermore; we have two discriminators to compare generated
-images to real iamges.
+images to real images.
 
 ![alt text](images/cycle_gan.png)
 
