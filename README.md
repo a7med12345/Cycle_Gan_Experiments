@@ -55,7 +55,7 @@ We have respectively:
 
 * RealA, fakeB, recA
 * RealB, fakeA, recB
-* random gaussian noise, RealA-fakeB, fakeA-RealB
+* Gaussian noise, RealA-fakeB, fakeA-RealB
 
 ![alt text](images/index.png)
 ![alt text](images/index2.png)
