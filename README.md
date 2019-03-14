@@ -48,6 +48,8 @@ batch_size =1 and  image_size = 512x512
 # Rainy to clear images:
 
 Example of output images during training:
+We use synthetic rainy images in our example;
+we can find  real world rainy image in the following [link](https://drive.google.com/file/d/1Vh3T6XZ-2337vTwrnS7kvGTTiBronyqr/view?usp=sharing). 
 
 We have respectively:
 
@@ -59,6 +61,21 @@ We have respectively:
 ![alt text](images/index11.png)
 ![alt text](images/index21.png)
 ![alt text](images/index33.png)
+
+# Gaussian denoising:
+
+Example of output images during training:
+
+
+We have respectively:
+
+* RealA, fakeB, recA
+* RealB, fakeA, recB
+
+![alt text](images/gaussian_noise2.png)
+![alt text](images/gaussian_noise3.png)
+![alt text](images/Gaussian_noise1.png)
+
 
 # Hazy to clear images:
 
